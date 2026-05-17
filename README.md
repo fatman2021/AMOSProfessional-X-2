@@ -4,7 +4,9 @@
 You will find in this repository the entire source code of AMOS Professional AGA.
 This source-code is published under the MIT licence, which means you can do anything you want from it as long as the copyright notice is present in both the modified source code and the boot screen of the application. Contrary to the initial François Lionet Repository, the application was updated to mention both official François Lionet's Amos Professional repository, and Amos Professional AGA repository.
 
-Frédéric (AmiDARK) cordierfr@wanadoo.fr
+François Lionet → original AMOS Professional 2.0
+
+AmiDARK / Frédéric Cordier → AMOS Professional X and AGA modernization cordierfr@wanadoo.fr
 
 ---
 
